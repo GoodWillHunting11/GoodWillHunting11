@@ -1,4 +1,14 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodWillHunting11&show_icons=true&theme=cobalt)
+![GoodWillHunting11's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodWillHunting11&show_icons=true&theme=cobalt)
+
+## Hi, I'm Aaron 👋
+***
+
+I'm a passionate software engineer proficient in JavaScript, HTML, CSS, Sequelize, and more. I love of tackling and solving difficult problems. Always looking for new opportunities to meet new people and sharpen my skills.
+
+- I'm currently attending App Academy to expand my knowledge and sharpen my skills.
+- Reach me at aaronshort19@gmail.com
+- Find me on ![Linkedin](https://www.linkedin.com/in/aaron-short-780446179/)
+- Find me on ![AngelList](https://angel.co/u/aaron-short-9)
 
 ### Technologies 
 
