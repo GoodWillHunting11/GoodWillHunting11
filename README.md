@@ -1,7 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodWillHunting11&show_icons=true&theme=cobalt)
 
-## Technologies 
-***
+### Technologies 
 
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40/><img 
