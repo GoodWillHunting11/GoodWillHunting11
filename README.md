@@ -9,6 +9,7 @@ I'm a passionate software engineer proficient in JavaScript, HTML, CSS, Sequeliz
 - 📧Reach me at aaronshort19@gmail.com
 - Find me on [Linkedin](https://www.linkedin.com/in/aaron-short-780446179/)
 - Find me on [AngelList](https://angel.co/u/aaron-short-9)
+- [Portfolio](https://goodwillhunting11.github.io/)
 
 ### Technologies 
 
